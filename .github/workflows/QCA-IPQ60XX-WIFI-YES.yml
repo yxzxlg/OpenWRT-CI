@@ -2,7 +2,7 @@
 # Copyright (C) 2026 VIKINGYFY
 
 #CI项目
-name: QCA-ALL
+name: QCA-IPQ60XX-WIFI-YES
 
 #CI计划
 on:
